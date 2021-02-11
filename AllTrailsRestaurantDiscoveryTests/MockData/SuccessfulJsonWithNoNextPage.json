@@ -1,0 +1,860 @@
+{
+    "html_attributions": [],
+    "results": [{
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5110895,
+                "lng": -0.1302171
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5126624302915,
+                    "lng": -0.128929569708498
+                },
+                "southwest": {
+                    "lat": 51.5099644697085,
+                    "lng": -0.131627530291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Premier Inn London Leicester Square hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 2848,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/100671543744203745509\"\u003ePremier Inn London Leicester Square hotel\u003c/a\u003e"],
+            "photo_reference": "ATtYBwKDD6OezPM5axOeZgbhOiAnD0yyP4YqaJePWo8VJVWtH9uNJjZIXyB82hXXmk8Hv3dQLB3Xi7IGIZ4ovE2b-vKwsJ3Tv-az6bfYP0R_EhTJf6kWJacdiTAUp56kUcIDzKyGwvcN8zQPQzRIUFAnzqIUzea86oQsTr3yeNKkUs9su6hO",
+            "width": 4288
+        }],
+        "place_id": "ChIJJUyxFNIEdkgRajb-0tlYT_0",
+        "plus_code": {
+            "compound_code": "GV69+CW London, UK",
+            "global_code": "9C3XGV69+CW"
+        },
+        "rating": 4.2,
+        "reference": "ChIJJUyxFNIEdkgRajb-0tlYT_0",
+        "scope": "GOOGLE",
+        "types": ["lodging", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 629,
+        "vicinity": "Queens House, 1 Leicester Square, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5145353,
+                "lng": -0.1270205
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5158797802915,
+                    "lng": -0.125581119708498
+                },
+                "southwest": {
+                    "lat": 51.51318181970851,
+                    "lng": -0.128279080291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Covent Garden Hotel",
+        "photos": [{
+            "height": 5792,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/103596128011107335827\"\u003eCovent Garden Hotel\u003c/a\u003e"],
+            "photo_reference": "ATtYBwJ1lLYNQP0EHoIr7eiyVFPs1ks-r1LZ7kQp1RByHCT50-_luK3EM-ymuubJfxAc1-rBNnMKoBExKoITwkpx3mhL660hvl4GTVrhF1veu-JN3Y051p2yhtV_trgl-thO5FojtUvep-wf70HTK4WdycvQscx-qShCTaEXly0vC2WXU4TE",
+            "width": 8688
+        }],
+        "place_id": "ChIJe0XrMc0EdkgR73cT3U4ghp4",
+        "plus_code": {
+            "compound_code": "GV7F+R5 London, UK",
+            "global_code": "9C3XGV7F+R5"
+        },
+        "rating": 4.5,
+        "reference": "ChIJe0XrMc0EdkgR73cT3U4ghp4",
+        "scope": "GOOGLE",
+        "types": ["lodging", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 395,
+        "vicinity": "10 Monmouth Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5184005,
+                "lng": -0.1348734
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5198129802915,
+                    "lng": -0.133481069708498
+                },
+                "southwest": {
+                    "lat": 51.51711501970851,
+                    "lng": -0.136179030291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Charlotte Street Hotel",
+        "photos": [{
+            "height": 1379,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/115014074177257357240\"\u003eCharlotte Street Hotel\u003c/a\u003e"],
+            "photo_reference": "ATtYBwIIQ-_mIf0LJyqmwlBdH8ekI8K5kHBIOACd7mBCPWaA3D3ITBU6atxkCZUZPSj01n61F0HGwKGk97AGb_DJ20nyefmsVR4kqgxLmGSKvmXCMb40sk86wiTFo_OWl282IoYyLPK3bv0suuUhAmoXGNs9ZoYZ6nALpQJjZKSIeR_cI7md",
+            "width": 2001
+        }],
+        "place_id": "ChIJZWQtdiwbdkgRDtcPz5yALlU",
+        "plus_code": {
+            "compound_code": "GV98+93 London, UK",
+            "global_code": "9C3XGV98+93"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJZWQtdiwbdkgRDtcPz5yALlU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"],
+        "user_ratings_total": 920,
+        "vicinity": "15-17 Charlotte Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5076355,
+                "lng": -0.1323669
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5089227802915,
+                    "lng": -0.131159219708498
+                },
+                "southwest": {
+                    "lat": 51.5062248197085,
+                    "lng": -0.133857180291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Hotel Sofitel London St James",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 3227,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/110301830467268736725\"\u003eHotel Sofitel London St James\u003c/a\u003e"],
+            "photo_reference": "ATtYBwJqpAT0ujG4QYXtoOYcCTvoqrNzK2LCfy7TXYUmenhk-fMcVF1eypB_MbHBCerEH3u_6FD4Z1pUO5h5iHN_1N_gA_lLCRpnopNjFVHRdBuGLcb8cYMpLqANNmKQ3zn4KLH5x1_hHtzTbb7BlGiVBujIMTCmuL2mP1h3r0n9zI_4kIaf",
+            "width": 4873
+        }],
+        "place_id": "ChIJKU7H_9AEdkgR4yo4FD1eNXc",
+        "plus_code": {
+            "compound_code": "GV59+33 London, UK",
+            "global_code": "9C3XGV59+33"
+        },
+        "rating": 4.6,
+        "reference": "ChIJKU7H_9AEdkgR4yo4FD1eNXc",
+        "scope": "GOOGLE",
+        "types": ["lodging", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 1583,
+        "vicinity": "6 Waterloo Place, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5061587,
+                "lng": -0.1402803
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5075373802915,
+                    "lng": -0.138990669708498
+                },
+                "southwest": {
+                    "lat": 51.5048394197085,
+                    "lng": -0.141688630291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "St. James's Hotel and Club - Mayfair London",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 2651,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/111274151979902936972\"\u003eSt. James&#39;s Hotel and Club - Mayfair London\u003c/a\u003e"],
+            "photo_reference": "ATtYBwIGtvXoJWxcPRm40mYv-pmcomOIbU6611xJiFjFsJy3zW2xGYlPm_Sa9-comY4JFUj1lF08ppqw1KNq59bJdaSGXFemniF-kYniOywbI8KQzAWfAetFlCn8Za1YtbztKZTJysGItrNI_1TFCcKLSJ_NDDvzJ9Ea36UXVB-HoMXqS0td",
+            "width": 3991
+        }],
+        "place_id": "ChIJD_XW2NcEdkgRS6oeZ95kXGo",
+        "plus_code": {
+            "compound_code": "GV45+FV London, UK",
+            "global_code": "9C3XGV45+FV"
+        },
+        "rating": 4.4,
+        "reference": "ChIJD_XW2NcEdkgRS6oeZ95kXGo",
+        "scope": "GOOGLE",
+        "types": ["lodging", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 321,
+        "vicinity": "7-8 Park Place, London"
+    }, {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 51.5135019,
+                "lng": -0.132589
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5148417802915,
+                    "lng": -0.131143069708498
+                },
+                "southwest": {
+                    "lat": 51.51214381970851,
+                    "lng": -0.133841030291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Dean Street Townhouse",
+        "permanently_closed": true,
+        "photos": [{
+            "height": 3024,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/117007182021735620322\"\u003eRob Bjork Sthlm Sweden\u003c/a\u003e"],
+            "photo_reference": "ATtYBwIXETyVsp9kcUU91jLAt9L0cmwjAdTgdlb0qIBstXIZddmDJaZ7ssL6693WOfa0245awwTelmYUFM5Dt44Kln_dw_qH7YtQSgw8as8ZDhngrUiI0FqZCSJwG35GcMyOe0kXbTzVXarC7ON7ynWnP1xM-FN7XI2ia2wmLlmBO4TqmGPO",
+            "width": 4032
+        }],
+        "place_id": "ChIJZ-YVItMEdkgR2_qjlApBJ1w",
+        "plus_code": {
+            "compound_code": "GV78+CX London, UK",
+            "global_code": "9C3XGV78+CX"
+        },
+        "rating": 4.4,
+        "reference": "ChIJZ-YVItMEdkgR2_qjlApBJ1w",
+        "scope": "GOOGLE",
+        "types": ["lodging", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 1297,
+        "vicinity": "69-71 Dean Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.51162350000001,
+                "lng": -0.1383634
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5129566302915,
+                    "lng": -0.137122169708498
+                },
+                "southwest": {
+                    "lat": 51.5102586697085,
+                    "lng": -0.139820130291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Karma Sanctum Soho London",
+        "photos": [{
+            "height": 667,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/105886949685725267672\"\u003eKarma Sanctum Soho London\u003c/a\u003e"],
+            "photo_reference": "ATtYBwKeF2vpMLs1tik4zvJnI8ZS88FYJahjv7a0t-1xOVy9KZIgpNDgGc2XjhZDhLgjMRO0LRCFXzhPi3TnI1ju-_JbNhbo3jH7GcNOEKg-pEaJZdGhsLTrrU0hKy451giJWWQSSYouG0keKpWkwz5XVzpI_ds63vB3VZXhZ0IdHuCGsPvO",
+            "width": 1000
+        }],
+        "place_id": "ChIJUzJyrtUEdkgRkpp5H7UvlXQ",
+        "plus_code": {
+            "compound_code": "GV66+JM London, UK",
+            "global_code": "9C3XGV66+JM"
+        },
+        "rating": 4,
+        "reference": "ChIJUzJyrtUEdkgRkpp5H7UvlXQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"],
+        "user_ratings_total": 506,
+        "vicinity": "20 Warwick Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.51022209999999,
+                "lng": -0.1315173
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.51160303029149,
+                    "lng": -0.130084019708498
+                },
+                "southwest": {
+                    "lat": 51.5089050697085,
+                    "lng": -0.132781980291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Thistle Piccadilly Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 3000,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/109485612031011551083\"\u003eVesa Mäntyharju\u003c/a\u003e"],
+            "photo_reference": "ATtYBwJoRRyouSSvGQPZwxO8s5Ng3Jb389a4Qt57KmXxKcIxaVrvnlzrwAVGLWE6xT90p_HjjHxJuMaSGM3YmAN9EFfxvD_aXthR9mnyEwlbIp_M2Gb1Ytmm03Pvzv7fQIuQZR-TdJrE6Hw6ULmddSQuSfXdTpOixO1pXIoFiwiPrzM8FdAf",
+            "width": 5333
+        }],
+        "place_id": "ChIJZewrLtIEdkgRtl2nZKboAgk",
+        "plus_code": {
+            "compound_code": "GV69+39 London, UK",
+            "global_code": "9C3XGV69+39"
+        },
+        "rating": 4.4,
+        "reference": "ChIJZewrLtIEdkgRtl2nZKboAgk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"],
+        "user_ratings_total": 486,
+        "vicinity": "Coventry Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.50776159999999,
+                "lng": -0.141354
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5090839302915,
+                    "lng": -0.140075969708498
+                },
+                "southwest": {
+                    "lat": 51.5063859697085,
+                    "lng": -0.142773930291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "name": "Mahiki Mayfair",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [{
+            "height": 4149,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/102960092126810821346\"\u003eMahiki Mayfair\u003c/a\u003e"],
+            "photo_reference": "ATtYBwJsXWJZgrM57bxCK0gQlfTGYeuQHM_Gki2N_qB0Lwhk9SCgR78BQpWUoGmRw2zFFkx2TVtXWp8FzaCgPylmXpEvfQXNh2YMacJSFJOADrJQUDjHYGXpNUcixPRqHXqVlkTpIqU14hllPjCg5Oi4uiq3IxTFxZ-56JgXxcu1xbvIgL1h",
+            "width": 6224
+        }],
+        "place_id": "ChIJW6Tk99UEdkgRnKPt55v7t4I",
+        "plus_code": {
+            "compound_code": "GV55+4F London, UK",
+            "global_code": "9C3XGV55+4F"
+        },
+        "rating": 3.5,
+        "reference": "ChIJW6Tk99UEdkgRnKPt55v7t4I",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"],
+        "user_ratings_total": 932,
+        "vicinity": "1 Dover Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5175046,
+                "lng": -0.1295812
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5187911302915,
+                    "lng": -0.128199619708498
+                },
+                "southwest": {
+                    "lat": 51.5160931697085,
+                    "lng": -0.130897580291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "The Cheshire Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 1361,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/105114722012821047401\"\u003eJan Wenäll\u003c/a\u003e"],
+            "photo_reference": "ATtYBwLZcujL9lQDMn1KViLmqK1ADVveq8kQUt-cn3NFzw2IjCilZbqbm9nnmbMcxyagEsS76iAQ7Sq5f5RGRwbMEzh_skbWe6BQrvKSAUusfswa18QGJBFL_ducCKcXicjYIYqIUorGWMLt4-G8kOLgLDBmA4-wPPRyIZWcXeQAOeQMtXWq",
+            "width": 2048
+        }],
+        "place_id": "ChIJ6RbTeC0bdkgRpWBs7KYmsJo",
+        "plus_code": {
+            "compound_code": "GV9C+25 London, UK",
+            "global_code": "9C3XGV9C+25"
+        },
+        "rating": 3.2,
+        "reference": "ChIJ6RbTeC0bdkgRpWBs7KYmsJo",
+        "scope": "GOOGLE",
+        "types": ["lodging", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 356,
+        "vicinity": "110 Great Russell Street, London"
+    }, {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 51.5073915,
+                "lng": -0.1409041
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5088151802915,
+                    "lng": -0.139635169708498
+                },
+                "southwest": {
+                    "lat": 51.5061172197085,
+                    "lng": -0.142333130291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "The Wolseley",
+        "permanently_closed": true,
+        "photos": [{
+            "height": 919,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/110764854880976542215\"\u003eThe Wolseley\u003c/a\u003e"],
+            "photo_reference": "ATtYBwLTPkj8B1vhOlBqiWoQGJTfKPBRjQ_AEXelJ5WnZrORlV3LbtW8-VDpMGFn7_lkBrC5SxWTE-9QjVqA77X9NV_zhHWkKNRfIciQCCtyS7a5qPfEw2FPdE-AUael9TtUFm6Xbpf5WoBOSVDC_rhOAZ8TrNt5OUavMSdmATTvZHOqVAZE",
+            "width": 1379
+        }],
+        "place_id": "ChIJr_4cVy8FdkgRIrNbO93eUFM",
+        "plus_code": {
+            "compound_code": "GV45+XJ London, UK",
+            "global_code": "9C3XGV45+XJ"
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "ChIJr_4cVy8FdkgRIrNbO93eUFM",
+        "scope": "GOOGLE",
+        "types": ["cafe", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 3845,
+        "vicinity": "160 Piccadilly, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5128184,
+                "lng": -0.1280066
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5141813302915,
+                    "lng": -0.126601919708498
+                },
+                "southwest": {
+                    "lat": 51.51148336970851,
+                    "lng": -0.129299880291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "The Ivy",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 3280,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/101548693863499131148\"\u003eThe Ivy\u003c/a\u003e"],
+            "photo_reference": "ATtYBwLHGLQ4chhcZ7LyYU2Zb3iGZNV9wrQRq31a7mDpbIjMnxs6zoYMBFgB45y-Zc0uqBIcceXZhaoZxswXMEJmvMKQ3VtGbEEJZIoMQE07KA-B6_0EJbTtAqyKOmmeA8pS60PFI5vrPZM1zANyQ56hGM92LUVOUi-a-vJQgFuQL-gUvm-A",
+            "width": 4928
+        }],
+        "place_id": "ChIJVcvKc80EdkgRyV3q0YIzDvc",
+        "plus_code": {
+            "compound_code": "GV7C+4Q London, UK",
+            "global_code": "9C3XGV7C+4Q"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJVcvKc80EdkgRyV3q0YIzDvc",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"],
+        "user_ratings_total": 1906,
+        "vicinity": "1-5 West Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5114838,
+                "lng": -0.1323114
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5128646802915,
+                    "lng": -0.130931869708498
+                },
+                "southwest": {
+                    "lat": 51.51016671970851,
+                    "lng": -0.133629830291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Wong Kei",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 3168,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/114555985801196240857\"\u003eWong Kei\u003c/a\u003e"],
+            "photo_reference": "ATtYBwJmiTEp7Ktu3HaVzhlaCSio5FhmOb4alr_C8CoZRipvWGQwj_7VKbph48eAf3fVmdze9fZYrLOcHL6jrrFgeZ42dPku7ahJjULlGA8SPqJfU3T6e3vDk6XOetJwaZ1b2PGC3illd6TwtGJaEgUyafw6mcX_Dh2u4caJssXDTbY7EP--",
+            "width": 4752
+        }],
+        "place_id": "ChIJz-VvsdMEdkgR1lQfyxijRMw",
+        "plus_code": {
+            "compound_code": "GV69+H3 London, UK",
+            "global_code": "9C3XGV69+H3"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJz-VvsdMEdkgR1lQfyxijRMw",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 2325,
+        "vicinity": "41-43 Wardour Street, London"
+    }, {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 51.510856,
+                "lng": -0.133633
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5122166302915,
+                    "lng": -0.132360019708498
+                },
+                "southwest": {
+                    "lat": 51.5095186697085,
+                    "lng": -0.135057980291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Rainforest Cafe",
+        "permanently_closed": true,
+        "photos": [{
+            "height": 600,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/108486856573661494334\"\u003eRainforest Cafe\u003c/a\u003e"],
+            "photo_reference": "ATtYBwIUYxQ5ztYLT5ehsuu8x13qoElNvoxwrFD3mwD2qJxDSMMBrWVQ2oeaSMwaJj-Z5hr8Y0Ti1UFg6KwaIVba0zck4OnWtZFA1k16pqeGWryYbTWZd6h6_WiGMBpnOrgZv4D-yNiGgbKtinR-spys-E5Id_-ToxPhML7EXyh4VKA4NIsx",
+            "width": 800
+        }],
+        "place_id": "ChIJ3VekwdMEdkgRTEiBkvNwTkI",
+        "plus_code": {
+            "compound_code": "GV68+8G London, UK",
+            "global_code": "9C3XGV68+8G"
+        },
+        "price_level": 3,
+        "rating": 3.7,
+        "reference": "ChIJ3VekwdMEdkgRTEiBkvNwTkI",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 3917,
+        "vicinity": "20 Shaftesbury Avenue, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.506935,
+                "lng": -0.126012
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5083957802915,
+                    "lng": -0.124608969708498
+                },
+                "southwest": {
+                    "lat": 51.5056978197085,
+                    "lng": -0.127306930291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Boyds Grill & Wine Bar",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 1439,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/106966070779542678738\"\u003eBoyds Grill &amp; Wine Bar\u003c/a\u003e"],
+            "photo_reference": "ATtYBwIHWMoP-LqH9BBEMPeuLN_7_WCzNapYwC0OBWNKQttp4270Qovgg9K9tHDa7vB9SrlhRHvK3j6cdaFABkic9N9yxIw11U_u7CeC0Dx7W30jfd3nOah8u6saqcw9TVPMbYUtGTR47M8BEwL1LwP95zldxSg_a7A36iSXgdS27wcPZkjf",
+            "width": 2560
+        }],
+        "place_id": "ChIJ78fbAc8EdkgRpl7qmBRwPKU",
+        "plus_code": {
+            "compound_code": "GV4F+QH London, UK",
+            "global_code": "9C3XGV4F+QH"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ78fbAc8EdkgRpl7qmBRwPKU",
+        "scope": "GOOGLE",
+        "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 254,
+        "vicinity": "8 Northumberland Avenue, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.51233,
+                "lng": -0.1372525
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5136447302915,
+                    "lng": -0.135956969708498
+                },
+                "southwest": {
+                    "lat": 51.5109467697085,
+                    "lng": -0.138654930291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Bob Bob Ricard",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [{
+            "height": 1067,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/107378557987739079935\"\u003eBob Bob Ricard\u003c/a\u003e"],
+            "photo_reference": "ATtYBwK6EID3gVSFXJ3tAuseQnIllQjfhOyOvUqilONhIU3c1gLAeLeMGv0OQ_VYpUiYD_MNyfFPctKFB6ptcpW4HxfKt9dih2Tsq-Er5Kw18DeYLyx7KvD606-AnU4tlaE2SyeFI6dh95O8Y9ITvO56ewkFop9iX7oPmJrQBEp0urfKTSB5",
+            "width": 1600
+        }],
+        "place_id": "ChIJNzsd-NQEdkgRmrDZyr1DPUg",
+        "plus_code": {
+            "compound_code": "GV67+W3 London, UK",
+            "global_code": "9C3XGV67+W3"
+        },
+        "price_level": 4,
+        "rating": 4.5,
+        "reference": "ChIJNzsd-NQEdkgRmrDZyr1DPUg",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 1685,
+        "vicinity": "1 Upper James Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5100071,
+                "lng": -0.1378672
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.51127468029149,
+                    "lng": -0.136455419708498
+                },
+                "southwest": {
+                    "lat": 51.50857671970849,
+                    "lng": -0.139153380291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Veeraswamy",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [{
+            "height": 865,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/104917314627370009956\"\u003eVeeraswamy\u003c/a\u003e"],
+            "photo_reference": "ATtYBwLVv0UnepzWT8dHbsA66KPdlg0Y0N-EOGEcn3EWBKuo_rOe8gKZl2Y7mFRUBkM2G6iXh0IhpJto-_M_IQayUH_PO-CObU4gomnxml7IUPM-J9q8Og03CJOWITDxCntCrbHIoR9bSXydMXzTZ_-H6ubVis_G-bz1sfoGvZ2xlxJxIkmV",
+            "width": 1300
+        }],
+        "place_id": "ChIJnVRkK9QEdkgRz8uiqq2HfjM",
+        "plus_code": {
+            "compound_code": "GV66+2V London, UK",
+            "global_code": "9C3XGV66+2V"
+        },
+        "price_level": 3,
+        "rating": 4.2,
+        "reference": "ChIJnVRkK9QEdkgRz8uiqq2HfjM",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 1070,
+        "vicinity": "Victory House, 99-101 Regent Street, London"
+    }, {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 51.5130852,
+                "lng": -0.1422469
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.51440513029149,
+                    "lng": -0.140828119708498
+                },
+                "southwest": {
+                    "lat": 51.51170716970849,
+                    "lng": -0.143526080291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Goodman - Mayfair",
+        "permanently_closed": true,
+        "photos": [{
+            "height": 769,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/113719639442868633401\"\u003eAshley Hughes\u003c/a\u003e"],
+            "photo_reference": "ATtYBwIyfIevnS7eG5hrTdBJ-aCLIdBkSMkafNJgt9haT_7priSW0xg5tBG8bmSpfrcAgFSm8o9yCi4U4wmms9vilt8IfQg4xQohCoQL59HidSO9sBAmmQQw8tvUwy6agnKiqH0rP53H5gzwZP8lOTLCXtFXzM9TQaHMh2L1zJQTprnd7pmB",
+            "width": 1024
+        }],
+        "place_id": "ChIJJSEekyoFdkgRLGqXPxdTl1k",
+        "plus_code": {
+            "compound_code": "GV75+64 London, UK",
+            "global_code": "9C3XGV75+64"
+        },
+        "price_level": 4,
+        "rating": 4.6,
+        "reference": "ChIJJSEekyoFdkgRLGqXPxdTl1k",
+        "scope": "GOOGLE",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 1306,
+        "vicinity": "24-26 Maddox Street, London"
+    }, {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 51.5134463,
+                "lng": -0.1257869
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.51481983029149,
+                    "lng": -0.124373519708498
+                },
+                "southwest": {
+                    "lat": 51.51212186970849,
+                    "lng": -0.127071480291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Hawksmoor Seven Dials",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [{
+            "height": 682,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/111815742278078935149\"\u003eHawksmoor Seven Dials\u003c/a\u003e"],
+            "photo_reference": "ATtYBwLJZ87o__oJqekSBrI9xTyonEPexLVbeUQM7P7xPx-sh8Wq5yiZo6xkU2LqGq4i0jRkNhtdrUAb_sYG1CdWF_slWuhQIHNLUEE7h7FNDp1BPAG0XZK4SEqswi5R2MTjQl462nyn8kI1avprBd8o8C2x_Cq7JivgohBE91jeVcfoVPRE",
+            "width": 1024
+        }],
+        "place_id": "ChIJCWgQ38wEdkgROQYuPAFfDRo",
+        "plus_code": {
+            "compound_code": "GV7F+9M London, UK",
+            "global_code": "9C3XGV7F+9M"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJCWgQ38wEdkgROQYuPAFfDRo",
+        "scope": "GOOGLE",
+        "types": ["bar", "restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 2871,
+        "vicinity": "11 Langley Street, London"
+    }, {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 51.5138717,
+                "lng": -0.1400263
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 51.5151772302915,
+                    "lng": -0.139045769708498
+                },
+                "southwest": {
+                    "lat": 51.5124792697085,
+                    "lng": -0.141743730291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "name": "Liberty London",
+        "permanently_closed": true,
+        "photos": [{
+            "height": 296,
+            "html_attributions": [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/111951531670109997426\"\u003eLiberty London\u003c/a\u003e"],
+            "photo_reference": "ATtYBwIcA-spTzpMPv4iWfSuHBlVzXgw-xih3R3yUgGQX6nV_dffPIceyqmiHANSwvwcNeU9ufaQo13w3uq-KMIGwFlPGTlF7zjSK4J3DryqAlzONf3VsIZas420NGM07ZkptFJbYPdFBPVHV62lvsbkHfHgp_X0AHREH6iYBgIkfnK-XCU9",
+            "width": 1017
+        }],
+        "place_id": "ChIJ6_3yMNUEdkgRgYFYwtACqqo",
+        "plus_code": {
+            "compound_code": "GV75+GX London, UK",
+            "global_code": "9C3XGV75+GX"
+        },
+        "price_level": 4,
+        "rating": 4.5,
+        "reference": "ChIJ6_3yMNUEdkgRgYFYwtACqqo",
+        "scope": "GOOGLE",
+        "types": [
+            "department_store",
+            "beauty_salon",
+            "hair_care",
+            "tourist_attraction",
+            "spa",
+            "restaurant",
+            "food",
+            "health",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"],
+        "user_ratings_total": 12838,
+        "vicinity": "Regent Street, London"
+    }],
+    "status": "OK"
+}
+
